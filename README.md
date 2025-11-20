@@ -73,12 +73,13 @@ RDS automated daily backups, point-in-time recovery, and S3 storage for static a
 
 ## Technologies Used
 - **Backend:** Node.js / Express *(example stack)*
-- **Database:** MySQL (AWS RDS)
-- **Storage:** AWS S3
+- **Hosting**: Vercel (serverless functions)
+- **Database:** Supabase
+- **Storage:** Supabase 
 - **Auth:** Auth0 / JWT
 - **Payments:** Stripe API
 - **Delivery:** DHL API
-- **Notifications:** SendGrid (email), Twilio (SMS)
+- **Notifications:** SendGrid (email), Twilio (SMS)CURRENT TECHNOLOGY STACK
 
 ---
 
